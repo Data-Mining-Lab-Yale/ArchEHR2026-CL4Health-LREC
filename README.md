@@ -1,6 +1,6 @@
 # ArchEHR-QA 2026 — Data Mining Lab @ Yale
 
-**Official submission repository** for the [ArchEHR-QA 2026](https://archehr-qa.github.io/) shared task (CL4Health @ LREC-COLING 2026). We participated in all four subtasks with systems that placed in the **top 5** on each official leaderboard.
+**Official submission repository** for the [ArchEHR-QA 2026](https://archehr-qa.github.io/) shared task (CL4Health @ LREC-COLING 2026). We participated in all four subtasks and placed in the **top 5** on **3 out of 4** official leaderboards. Only THREE teams achieved top 5 on three subtasks; no team placed in the top 5 on all four subtasks.
 
 ---
 
@@ -113,3 +113,4 @@ Individual subtask folders may contain a **LICENSE** file (e.g. MIT). Dataset us
 - **ArchEHR-QA 2026:** [archehr-qa.github.io](https://archehr-qa.github.io/)
 - **CL4Health @ LREC-COLING 2026**
 - **Data:** [PhysioNet](https://physionet.org/) (subject to their access and DUA)
+
