@@ -20,10 +20,9 @@
 |--------|------|-------|-------------|--------|
 | **1** | Question interpretation (patient → clinician question, ≤15 words) | **Top 5** (5th / 84) | Overall 27.1 (ROUGELsum, BERTScore, AlignScore, MEDCON) | [ArchEHR-QA-2026-Subtask1-main](ArchEHR-QA-2026-Subtask1-main) |
 | **2** | Evidence identification (sentences supporting fact-sheet answers) | **Top 5** (4th / 106) | Strict Micro F1 **61.9** | [ArchEHR-QA-2026-Subtask2-main](ArchEHR-QA-2026-Subtask2-main) |
-| **3** | Answer generation (≤75 words, grounded in note) | --- | Dev 34.01 (BLEU, ROUGE, SARI, BERTScore); Test 30.95 | [ArchEHR-QA-2026-Subtask3-main](ArchEHR-QA-2026-Subtask3-main) |
+| **3** | Answer generation (≤75 words, grounded in note) | ------ | Dev 34.01 (BLEU, ROUGE, SARI, BERTScore); Test 30.95 | [ArchEHR-QA-2026-Subtask3-main](ArchEHR-QA-2026-Subtask3-main) |
 | **4** | Evidence alignment (answer sentence → note sentence IDs) | **Top 5** (3rd / 141) | Micro F1 **80.41** (test) | [ArchEHR-QA-2026-Subtask4-main](ArchEHR-QA-2026-Subtask4-main) |
 
-Leaderboards: [Subtask 1](https://www.codabench.org/competitions/12865/#/results-tab) · [Subtask 2](https://www.codabench.org/competitions/13526/#/results-tab).
 
 ---
 
@@ -113,5 +112,6 @@ Individual subtask folders may contain a **LICENSE** file (e.g. MIT). Dataset us
 - **ArchEHR-QA 2026:** [archehr-qa.github.io](https://archehr-qa.github.io/)
 - **CL4Health @ LREC-COLING 2026**
 - **Data:** [PhysioNet](https://physionet.org/) (subject to their access and DUA)
+
 
 
