@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | **Lab** | [Data Mining Lab @ Yale](https://github.com/Data-Mining-Lab-Yale) |
-| **Participants** | [Elyas Irankhah](https://github.com/Elyasirankhah), Samah Fodeh |
+| **Participants** | [Elyas Irankhah](https://github.com/Elyasirankhah), [Samah Fodeh](https://github.com/Samah12) |
 | **Competition** | [CL4Health @ LREC 2026](https://archehr-qa.github.io/) — ArchEHR-QA (patient-authored questions over EHR) |
 
 ---
@@ -113,4 +113,5 @@ Individual subtask folders may contain a **LICENSE** file (e.g. MIT). Dataset us
 - **ArchEHR-QA 2026:** [archehr-qa.github.io](https://archehr-qa.github.io/)
 - **CL4Health @ LREC-COLING 2026**
 - **Data:** [PhysioNet](https://physionet.org/) (subject to their access and DUA)
+
 
