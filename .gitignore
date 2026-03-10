@@ -1,0 +1,32 @@
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.eggs/
+venv/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Submission artifacts (do not commit predictions/submissions unless intended)
+*submission*.json
+*.zip
+codabench*/
+
+# Dataset and restricted files (PhysioNet DUA)
+gold_patterns.json
+*_key.json
+
+# OS
+.DS_Store
+Thumbs.db
